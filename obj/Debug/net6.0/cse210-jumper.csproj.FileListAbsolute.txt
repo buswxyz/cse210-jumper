@@ -1,0 +1,15 @@
+C:\Users\busta\git\cse210-jumper\obj\Debug\net6.0\cse210-jumper.csproj.AssemblyReference.cache
+C:\Users\busta\git\cse210-jumper\obj\Debug\net6.0\cse210-jumper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busta\git\cse210-jumper\obj\Debug\net6.0\cse210-jumper.AssemblyInfoInputs.cache
+C:\Users\busta\git\cse210-jumper\obj\Debug\net6.0\cse210-jumper.AssemblyInfo.cs
+C:\Users\busta\git\cse210-jumper\obj\Debug\net6.0\cse210-jumper.csproj.CoreCompileInputs.cache
+C:\Users\busta\git\cse210-jumper\bin\Debug\net6.0\cse210-jumper.exe
+C:\Users\busta\git\cse210-jumper\bin\Debug\net6.0\cse210-jumper.deps.json
+C:\Users\busta\git\cse210-jumper\bin\Debug\net6.0\cse210-jumper.runtimeconfig.json
+C:\Users\busta\git\cse210-jumper\bin\Debug\net6.0\cse210-jumper.dll
+C:\Users\busta\git\cse210-jumper\bin\Debug\net6.0\cse210-jumper.pdb
+C:\Users\busta\git\cse210-jumper\obj\Debug\net6.0\cse210-jumper.dll
+C:\Users\busta\git\cse210-jumper\obj\Debug\net6.0\refint\cse210-jumper.dll
+C:\Users\busta\git\cse210-jumper\obj\Debug\net6.0\cse210-jumper.pdb
+C:\Users\busta\git\cse210-jumper\obj\Debug\net6.0\cse210-jumper.genruntimeconfig.cache
+C:\Users\busta\git\cse210-jumper\obj\Debug\net6.0\ref\cse210-jumper.dll
