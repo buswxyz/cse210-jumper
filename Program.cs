@@ -1,3 +1,9 @@
-﻿void Main(){
+﻿class program{
 
+    void Main(){
+
+
+
+
+    }
 }
