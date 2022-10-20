@@ -36,7 +36,7 @@ class Word{
     public string getRandomWord(){
         int index = getRandomIndex();
         string randomWord = words[index];
+        return randomWord;
 
         }
-    }
 }
