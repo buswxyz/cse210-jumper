@@ -1,6 +1,5 @@
 class Jumper{
 
-    int guessesLeft = 4;
     public void printJumper(int guessesLeft){
         if(guessesLeft == 4){
             Console.WriteLine( "  ____  ");

@@ -2,6 +2,7 @@ class Word{
 
     private List<string> words = new List<string>();
     Random rnd = new Random();
+    Game game = new Game();
     
     private List<string> createWordList(){
         words.Add("Sword");
@@ -37,6 +38,9 @@ class Word{
         int index = getRandomIndex();
         string randomWord = words[index];
         return randomWord;
+    }
 
-        }
+    public void printWord(){
+        string randomWord = getRandomWord();
+    }
 }
