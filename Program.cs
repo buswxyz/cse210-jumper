@@ -1,15 +1,16 @@
 ﻿class Program{
-    Game game = new Game();
-    Guess guess = new Guess();
-    Jumper jumper = new Jumper();
-    Word word = new Word();
-    int guessesLeft = 4;
+    static Game game = new Game();
+    static Guess guess = new Guess();
+    static Jumper jumper = new Jumper();
+    static Word wordbank = new Word();
+    static int guessesLeft = 4;
 
-    public void Main(){
-        string selectedWord = word.getRandomWord();
+    public static void Main(){
+        string selectedWord = wordbank.getRandomWord();
         while (guessesLeft > 0){
+            guess.playerAnswer();
+            guessesLeft = game.RightorWrong(guessesLeft);
             jumper.printJumper(guessesLeft);
-            game.correctAnswer();
         }
     }
 }
