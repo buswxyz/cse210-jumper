@@ -8,26 +8,26 @@ class Word{
     }
     
     private List<string> createWordList(){
-        words.Add("Sword");
-        words.Add("Logic");
-        words.Add("Pyramid");
-        words.Add("Traveler");
-        words.Add("Light");
-        words.Add("Darkness");
-        words.Add("Bone");
-        words.Add("Marrow");
-        words.Add("Taken");
-        words.Add("King");
-        words.Add("Fallen");
-        words.Add("Captain");
-        words.Add("Vandal");
-        words.Add("Dreg");
-        words.Add("Rifle");
-        words.Add("Guardian");
-        words.Add("Hive");
-        words.Add("Thrall");
-        words.Add("Knight");
-        words.Add("Wizard");
+        words.Add("sword");
+        words.Add("logic");
+        words.Add("pyramid");
+        words.Add("traveler");
+        words.Add("light");
+        words.Add("darkness");
+        words.Add("bone");
+        words.Add("marrow");
+        words.Add("taken");
+        words.Add("king");
+        words.Add("fallen");
+        words.Add("captain");
+        words.Add("vandal");
+        words.Add("dreg");
+        words.Add("rifle");
+        words.Add("guardian");
+        words.Add("hive");
+        words.Add("thrall");
+        words.Add("knight");
+        words.Add("wizard");
 
         return words;
     }

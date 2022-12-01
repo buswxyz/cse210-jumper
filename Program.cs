@@ -6,6 +6,7 @@
     static int guessesLeft = 4;
 
     public static void Main(){
+        jumper.printJumper(guessesLeft);
         while (guessesLeft > 0){
             guessesLeft = game.RightorWrong(guessesLeft);
             jumper.printJumper(guessesLeft);
