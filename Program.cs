@@ -6,9 +6,7 @@
     static int guessesLeft = 4;
 
     public static void Main(){
-        string selectedWord = wordbank.getRandomWord();
         while (guessesLeft > 0){
-            guess.playerAnswer();
             guessesLeft = game.RightorWrong(guessesLeft);
             jumper.printJumper(guessesLeft);
         }
